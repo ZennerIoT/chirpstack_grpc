@@ -1,0 +1,6 @@
+[submodule "chirpstack-api"]
+	path = chirpstack-api
+	url = https://github.com/brocaar/chirpstack-api.git
+[submodule "proto_defs"]
+	path = proto_defs
+	url = https://github.com/brocaar/chirpstack-api.git
