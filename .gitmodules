@@ -4,3 +4,6 @@
 [submodule "proto_defs"]
 	path = proto_defs
 	url = https://github.com/brocaar/chirpstack-api.git
+[submodule "googleapis"]
+	path = googleapis
+	url = https://github.com/googleapis/googleapis.git
